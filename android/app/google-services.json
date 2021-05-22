@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42758226099",
+    "project_id": "crimealert-353c9",
+    "storage_bucket": "crimealert-353c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42758226099:android:d675bcb3aa9cadea1270c6",
+        "android_client_info": {
+          "package_name": "com.bese9a9b.crime_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42758226099-13hecak52cmta8o4uf0pf4d17dvd6kob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwe_YQDB3gqf8tj_BBCY8P6iSRJ443IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42758226099-13hecak52cmta8o4uf0pf4d17dvd6kob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
